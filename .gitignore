@@ -3,5 +3,6 @@ tc_davivienda_example.csv
 tc_davivienda_example2.csv
 private_key.pem
 public_key.pem
+.env
 
 
