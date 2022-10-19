@@ -1,0 +1,17 @@
+{
+  "name": "s3-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"(async () => console.log(await require('./index').handler({})))();\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1235.0",
+    "dotenv": "^10.0.0"
+    
+  }
+}
